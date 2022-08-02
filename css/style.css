@@ -1,0 +1,97 @@
+.header {
+    height: 60%;
+    position: fixed;
+    width: calc(100%);
+    /*background-color: #0b6583;*/
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/Users/alejandromartinezgonzalez/Documents/Projects/PersonalWebsite/imgs/mines.jpeg");
+    background-size: 100% 100%;
+    text-align: left;
+    -webkit-text-size-adjust: auto;
+}
+
+#name {
+    font-size: 4vw;
+    font-family: 'Times New Roman';
+    color: whitesmoke;
+    /*background-color: aliceblue;*/
+    margin-left: 5%;
+}
+
+.contacts {
+    position: fixed;
+    height: 40%;
+    top: 70%;
+    width: 100%;
+    /*white-space: nowrap;
+    overflow-x: auto;*/
+}
+
+.Icon {
+    width: 20%;
+    height: 40%;
+    float: left;
+    margin-left: 5%;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    display: inline-block;
+}
+
+img:hover {
+    transform: scale(1.25);
+    transition: all .4s ease;
+}
+
+
+/*#Gmail {
+    width: 20%;
+    height: 40%;
+    float: left;
+    margin-left: 5%;
+    align-content: center;
+}
+
+#LinkedIn {
+    width: 20%;
+    height: 40%;
+    float: left;
+    margin-left: 5%;
+}
+
+#Github {
+    width: 20%;
+    height: 40%;
+    float: left;
+    margin-left: 5%;
+}
+
+#Resume {
+    width: 20%;
+    height: 40%;
+    float: left;
+    margin-left: 5%;
+}
+*/
+
+
+/*
+#Gmail:hover {
+    /*transform: translate(-2px, -2px);
+    transform: scale(1.25);
+    transition: all .4s ease;
+}
+#LinkedIn:hover {
+    transform: scale(1.25);
+    transition: all .4s ease;
+}
+#Github:hover {
+    transform: scale(1.25);
+    transition: all .4s ease;
+}
+#Resume:hover {
+    transform: scale(1.25);
+    transition: all .4s ease;
+}*/
