@@ -3,7 +3,7 @@
     position: fixed;
     width: calc(100%);
     /*background-color: #0b6583;*/
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/Users/alejandromartinezgonzalez/Documents/Projects/PersonalWebsite/imgs/mines.jpeg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../imgs/mines.jpeg");
     background-size: 100% 100%;
     text-align: left;
     -webkit-text-size-adjust: auto;
